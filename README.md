@@ -1,4 +1,4 @@
-#Cadence Samples
+# Cadence Samples
 These are some samples in go to demonstrate how to write cadence activities and workflows.
 
 ## Prerequisite
@@ -122,4 +122,4 @@ Also as I am new to go, so would love to better the code structure and practices
 6. Cadence, how to write a workflow : https://www.youtube.com/watch?v=Nbz6XUBKdbM
 
 
-#####Happy Coding!!!
+##### Happy Coding!!!
